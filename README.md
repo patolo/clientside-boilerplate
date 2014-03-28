@@ -1,4 +1,4 @@
-# Client-side web application playground
+# Client-side web application boilerplate
 
 This is a brief NodeJS/Grunt starter project, or a simple bootstrap, for web developers who just want to start simple from scratch. No fluff, just start coding right away on HTML5/CSS and Javascript as soon as you clone the project!
 
