@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Patrik Olofsson -- Developer -- @patrikolofsson
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5
+    CSS3
+    jQuery
+    Twitter Bootstrap
+    RequireJS
